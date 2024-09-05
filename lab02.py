@@ -43,7 +43,7 @@ sumplus5 = age + 5
 htminus4 = height - 4
 agexht = age * height
 htdiv2 = height / 2
-agediv3 = age // 3
+agediv3 = age % 3
 agesqrd = age**2
 
 print(f'''

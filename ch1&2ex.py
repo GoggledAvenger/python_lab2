@@ -1,5 +1,6 @@
 #Chapter 1 Exercises
 
+
 #Exercise top of pg 12
 x1 = round(42.5)
 print(x1)
